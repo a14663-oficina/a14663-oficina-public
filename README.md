@@ -3,7 +3,7 @@
 Formação em andamento:
 
 <img src="https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png" width="70">
-<img src="https://sites.google.com/oficina.pt/imagem-c/p%C3%A1gina-inicial" width="70">
+<img src="https://www.shutterstock.com/pt/image-vector/c-language-logo-simple-colours-used-2113921046" width="70">
 
 <div style="width: 200px;">
 <a href="https://github.com/a14663-oficina/github-readme-stats">
